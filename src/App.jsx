@@ -1,7 +1,11 @@
 import "./App.css";
 
 function App() {
-  return <>G-Cim - Project Assesment</>;
+  return (
+    <>
+      <div className="text-3xl">G-Cim - Project Assesment</div>
+    </>
+  );
 }
 
 export default App;
